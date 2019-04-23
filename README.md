@@ -1,7 +1,11 @@
 # Rony Nogueira Silvério Teles
 #### 04/10/1995, Goiânia-GO, Brasil
 Desenvolvedor Full Stack em AGF Serviços Especias (BR) e AGF USA LLC (US)
-ronynogueiras.dev@gmail.com
+
+Contatos
+- Email [ronynogueiras.dev@gmail.com](mailto:ronynogueiras.dev@gmail.com)
+- Telegram [@ronynogueiras](https://t.me/ronynogueiras)
+- Linkedin [Rony Nogueira](https://www.linkedin.com/in/rony-nogueira-188833117/)
 
 ---
 
