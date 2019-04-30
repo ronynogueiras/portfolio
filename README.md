@@ -146,6 +146,7 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 
   - Redes Neurais e Inteligência Artificial 
   - Algoritmos genéticos
+  - Docker
 
 ## Observações
 
