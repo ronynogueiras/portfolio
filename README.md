@@ -1,6 +1,6 @@
 # Rony Nogueira Silvério Teles
 #### 04/10/1995, Goiânia-GO, Brasil
-Desenvolvedor Full Stack em AGF Serviços Especias (BR) e AGF USA LLC (US)
+Desenvolvedor Full Stack em AGF Serviços Especias (BR), AGF USA LLC (US) e Nato Digital.
 
 Contatos
 - Email [ronynogueiras.dev@gmail.com](mailto:ronynogueiras.dev@gmail.com)
@@ -39,10 +39,10 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 - [OnFinance](https://www.onfinance.com.br) - Sistema de Controle de Carteiras e Ativos Financeiros para Regimes Próprios de Previdência Social (RPPS). Atualização geral do sistema para a versão 3.0, com a atualização da interface, rotinas automáticas, melhoria em funcionalidades e migração para a Amazon Web Services (AWS).
 - [UnoBank](https://www.unobank.com.br) - HUB para prestação serviços financeiros com Crédito Pessoal, Auto Garantia e Home Equity (Garantia por Imóveis). Desenvolvimento de aplicação web e API para informações da aplicação. Linguagens de programação utilizadas: PHP com framework Laravel 5.4.x, Javascript com Vue.js 2.x. Integração de APIs utilizadas na solicitação de empréstimos para processamento de ficha cadastral, integração com API de assinatura digital via celular.
 - [RPPS Transparência](https://rppstransparencia.com.br) - Site destinado a demonstração de informações públicas sobre Regimes Próprios de Previdência Social (RPPS) do Brasil com base no Demonstrativo de Aplicações e Investimentos de Recursos (DAIR) extraído de forma automática do CADPREV.
-- Consulta Investimentos RPPS (*Descontinuado*) - Sistema para consulta de investimentos e análises em informações de RPPS retiradas Demonstrativo de Aplicações e Investimentos de Recursos (DAIR).
-- Projeto em Andamento 1 (*Confidencial*) - Desenvolvimento de interface web aplicação de locação de espaços de cowork. Utilização de Vue.js com Quasar 0.19.
-- Projeto em Andamento 2 (*Confidencial*) - Desenvolvimento de aplicação para atuação em mercado de criptomoedas, realizando compras e vendas automáticas de acordo com indicadores de mercado financeiro.
-- Projeto em Andamento 3 (*Confidencial*) - Desenvolvimento de robôs em tempo real para atuação em mercado financeiro utilizando indicadores financeiros para compras e vendas em mercado de criptomoedas.
+- Consulta Investimentos RPPS (Descontinuado) - Sistema para consulta de investimentos e análises em informações de RPPS retiradas Demonstrativo de Aplicações e Investimentos de Recursos (DAIR).
+- Projeto em Andamento 1 (Confidencial) - Desenvolvimento de interface web aplicação de locação de espaços de cowork. Utilização de Vue.js com Quasar 0.19.
+- Projeto em Andamento 2 (Confidencial) - Desenvolvimento de aplicação para atuação em mercado de criptomoedas, realizando compras e vendas automáticas de acordo com indicadores de mercado financeiro.
+- Projeto em Andamento 3 (Confidencial) - Desenvolvimento de robôs em tempo real para atuação em mercado financeiro utilizando indicadores financeiros para compras e vendas em mercado de criptomoedas.
 
 ### Desenvolvedor em Nato Digital - 2019 a atual
 #### Projetos
