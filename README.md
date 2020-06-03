@@ -6,6 +6,7 @@ Contatos
 - Email [ronynogueiras.dev@gmail.com](mailto:ronynogueiras.dev@gmail.com)
 - Telegram [@ronynogueiras](https://t.me/ronynogueiras)
 - Linkedin [Rony Nogueira](https://www.linkedin.com/in/rony-nogueira-188833117/)
+- Github [ronynogueiras](https://github.com/ronynogueiras)
 
 ---
 
@@ -42,6 +43,11 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 - Projeto em Andamento 1 (*Confidencial*) - Desenvolvimento de interface web aplicação de locação de espaços de cowork. Utilização de Vue.js com Quasar 0.19.
 - Projeto em Andamento 2 (*Confidencial*) - Desenvolvimento de aplicação para atuação em mercado de criptomoedas, realizando compras e vendas automáticas de acordo com indicadores de mercado financeiro.
 - Projeto em Andamento 3 (*Confidencial*) - Desenvolvimento de robôs em tempo real para atuação em mercado financeiro utilizando indicadores financeiros para compras e vendas em mercado de criptomoedas.
+
+### Desenvolvedor em Nato Digital - 2019 a atual
+#### Projetos
+
+- [VirtualCart](https://virtualcart.app/) - Sistema para gerenciamentos de processos em cartórios.
 
 
 ## Cursos e Certificados
@@ -83,6 +89,7 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 
 ## Ferramentas em uso ou já utilizadas
 - Git (Github e Bitbucket)
+- Jira (Atlassian)
 - Trello 
 - Bittrix24
 - Hangouts
@@ -111,6 +118,7 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
   - jQuery
   - Angular.JS v1.x
   - Vue.JS
+  - React
   - ReactNative
 ### Frameworks PHP
   - Codeigniter versões 2 e 3
@@ -129,9 +137,14 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
   - Sequelize
   - WebSockets
   - Express
+  - Adonis
 
 ### Outros
   - Redis v4.x
+  - InfluxDB
+  - MySQL
+  - Postgres
+  - MongoDB
 
 ## Mídias Digitais e Impressas
 
@@ -140,14 +153,15 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
   - RPPS Transparência - Produção de Logotipo
 
 ## Literatura
-  Carregando...
+  - O estilo startup - Eric Ries
 
 ## Estudos Atuais
 
   - Redes Neurais e Inteligência Artificial 
   - Algoritmos genéticos
   - Docker
+  - Videoconferências (WebRTC e Jitsi)
 
 ## Observações
 
-  *A empresa AGF Serviços Especiais surgiu após a desvinculação de um dos sócios da RPPS Brasil, o qual era responsável pela parte de tecnologia da informação e dono do software OnFinance, por este motivo a atuação no desenvolvimento continuou após a saída da RPPS Brasil Consultoria*
+  A empresa AGF Serviços Especiais surgiu após a desvinculação de um dos sócios da RPPS Brasil, o qual era responsável pela parte de tecnologia da informação e dono do software OnFinance, por este motivo a atuação no desenvolvimento continuou após a saída da RPPS Brasil Consultoria
